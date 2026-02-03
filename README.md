@@ -2,7 +2,7 @@
 **Technique for Order of Preference by Similarity to Ideal Solution**
 
 [![PyPI Latest Release](https://img.shields.io/pypi/v/Topsis-Khushi-102303993.svg)](https://pypi.org/project/Topsis-Khushi-102303993/)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://topsis-datascience.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://topsis-khushi.streamlit.app/)
 
 ## **1. Methodology**
 TOPSIS is a multi-criteria decision analysis method that is based on the concept that the chosen alternative should have the shortest geometric distance from the positive ideal solution (PIS) and the longest geometric distance from the negative ideal solution (NIS).
@@ -44,16 +44,16 @@ The tool generates a CSV file with two additional columns: **Topsis Score** and 
 
 ## **4. Live Link**
 **Web App:** [https://topsis-khushi.streamlit.app/](https://topsis-khushi.streamlit.app/) 
-*(Note: Replace with your actual deployed link if different)*
+
 
 **PyPI Package:** [https://pypi.org/project/Topsis-Khushi-102303993/](https://pypi.org/project/Topsis-Khushi-102303993/)
 
 ## **5. Screenshots of the Interface**
 
 ### **Dashboard & Input Section**
-*(Replace the link below with your actual screenshot of the dashboard)*
+
 <img src="assets/input.png" width="90%" height="90%">
 
 ### **Results & Visualization**
-*(Replace the link below with your actual screenshot of the results tab)*
+
 <img src="assets/results.png" width="90%" height="90%">
